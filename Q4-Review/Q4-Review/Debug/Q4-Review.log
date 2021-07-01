@@ -1,0 +1,3 @@
+﻿  Assembling main.asm...
+main.asm(81): warning A6004: procedure argument or local not referenced : sum1
+  Q4-Review.vcxproj -> C:\Users\wael_\OneDrive\Desktop\Univ\Assembly\Q4-Review\Debug\Q4-Review.exe

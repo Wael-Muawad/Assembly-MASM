@@ -1,0 +1,3 @@
+﻿  Assembling main.asm...
+main.asm(148): warning A6004: procedure argument or local not referenced : ptr_Array
+  HW2.vcxproj -> C:\Users\wael_\OneDrive\Desktop\Univ\Assembly\HW2\Debug\HW2.exe
