@@ -1,6 +1,7 @@
 # Assembly-MASM
 Collections of assembly MASM tasks include irvine32 library
-the project names contain the following functionality 
+
+The project names contain the following functionality 
 
 (HW2)
 Enter 10 numbers and caclulate : the sum , the average with decimal , count how many numbers greater than the average , and find the max using procedure 
